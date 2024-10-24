@@ -1,32 +1,32 @@
 {
     "persone": [
       {
-        "nome": "Daniel",
-        "cognome": "Milanov",
+        "nome": "Mamadou",
+        "cognome": "Neglicene",
         "eta": 18,
-        "indirizzo": "Via Roma 123",
-        "citta": "Lainate",
+        "indirizzo": "Via Estocco 69",
+        "citta": "Rho",
         "telefoni": {
-          "telefono1": "1234567890",
-          "telefono2": "0987654321"
+          "telefono1": "349666723",
+          "telefono2": "329656781"
         },
         "sport": [
-          "calcio",
-          "tennis"
+          "basket",
+          "fentanyl"
         ]
       },
       {
-        "nome": "Gabriele",
-        "cognome": "Scotti",
+        "nome": "Gigi",
+        "cognome": "Giovio",
         "eta": 18,
-        "indirizzo": "Via Verdi 456",
+        "indirizzo": "Via Mascagni 12",
         "citta": "Lainate",
         "telefoni": {
-          "telefono1": "1112223334",
-          "telefono2": "4445556667"
+          "telefono1": "3456734598",
+          "telefono2": "3124577839"
         },
         "sport": [
-          "rompere le pallle"
+           "pattinaggio"
         ]
       }
     ]
